@@ -1,0 +1,1 @@
+"# this is a project I did as my last project on the aws ai/ml scholarship \n It uses transfer learning to classify the 102 flower categories and finaly created application modules to run on the command line" 
